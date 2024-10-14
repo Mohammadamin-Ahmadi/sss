@@ -1,1 +1,1 @@
-print "hello world"
+Console.writeLine("enter your number");
